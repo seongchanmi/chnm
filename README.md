@@ -12,5 +12,3 @@
 
 # | 1 |성찬미  |
 
-# url https://github.com/seongchanmi/chnm
-
